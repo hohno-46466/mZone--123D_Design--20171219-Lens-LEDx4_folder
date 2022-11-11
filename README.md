@@ -39,10 +39,4 @@
      ├──  README.md
      └──  README.md.old
      
-<<<<<<< HEAD
      0 directories, 18 files (Fri Nov 11 23:56:10 JST 2022)
-=======
-     0 directories, 18 files (Sun Nov  6 23:34:40 JST 2022)
->>>>>>> 0fb526305df52126b77e45f1888fe2530c4972b3
-
-
